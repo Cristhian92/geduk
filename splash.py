@@ -5,7 +5,7 @@ import pygtk
 pygtk.require('2.0')
 import gtk
 import gobject
-
+'supongo ke esto es la klss XD
 class Splash:
     
     def close_application(self, widget, event, data=None):
